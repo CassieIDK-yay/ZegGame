@@ -4,4 +4,5 @@ poruszającą się po planszy, zbiera przedmioty oraz unika zagrożeń. Gra powi
 etapów o rosnącym poziomie trudności oraz elementy logiczne (zagadki). 
 
 10.04.2026 - 08.06.2026 
+
 autor: Krzysztof Sobol
