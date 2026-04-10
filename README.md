@@ -1,5 +1,5 @@
-# ZegGame
-przeglądarkową gra typu Labirynt, w której gracz steruje postacią poruszającą się po planszy, zbiera przedmioty oraz unika zagrożeń
+# Labirynt
+przeglądarkowa gra typu labirynt pełny zagadek, przeciwników oraz przedmiotów
 
 10.04.2026 - 08.06.2026 
 
