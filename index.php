@@ -20,6 +20,14 @@
   <button onclick="startGame()">Start Gry</button>
 </div>
 
+<div id="storyBox">
+  <h2>Fabuła</h2>
+
+  <p id="storyText"></p>
+
+  <button onclick="nextStory()">Dalej</button>
+</div>
+
 <h1>Maze Escape</h1>
 
 <div id="ui">
