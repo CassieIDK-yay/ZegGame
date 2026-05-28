@@ -1,3 +1,9 @@
+const story = [
+  "Po wielu latach ukrywania się odkrywasz wejście do starego labiryntu.",
+  "Legenda mówi, że w środku znajduje się martwy rycerz który posiadał ogromną moc.",
+  "Labirynt jest pełen strażników i pułapek.",
+  "Musisz odnaleźć klucze i wydostać się żywy oraz z ciałem."
+];
 const canvas = document.getElementById('game');
 const ctx = canvas.getContext('2d');
 
